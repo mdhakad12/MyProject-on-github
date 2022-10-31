@@ -1,0 +1,15 @@
+                                                     Project Name - Cleartrip
+   
+                                                      Modules
+                                                    1.Flights
+                                                    2.Hotels
+                                                    3.Clear trip for work
+                                                    4.Top offers
+                                                    5.Giftcard
+                                                    6.Support
+                                                    7.Manage trips
+
+1.Flights 
+=Scenarios
+1.check we can book flight oneway or not 
+2.check we can book flight Round trip
